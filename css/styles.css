@@ -96,6 +96,26 @@ h3{
     color: var(--secundario);
 }
 
+.producto{
+
+}
+
+.producto__image{
+
+}
+
+.producto__info{
+
+}
+
+.producto__name{
+
+}
+
+.producto__price{
+    
+}
+
 .footer{
     background-color: var(--primario-oscuro);
     padding: 1rem 0;
